@@ -22,5 +22,6 @@ Os seguintes diagramas podem estar presentes nesta pasta:
 
 - **Lucidchart** - é um aplicativo de diagramação baseado na web que permite aos usuários colaborar visualmente no desenho, revisão e compartilhamento de gráficos e diagramas, além de melhorar processos, sistemas e estruturas organizacionais.  [Lucidchart](https://www.lucidchart.com/pages/pt)
 
-
+![image](https://github.com/user-attachments/assets/cb0e2f61-c1a4-4858-92f5-86b03fc35dba)
+*diagrana uml do chatbot*
 
